@@ -55,3 +55,42 @@ define("DB_UNAME","YOUR_DATABASE_USER_NAME");
 define("DB_PASS","YOUR_DATABASE_PASSWORD");
 define("DB_DNAME","YOUR_DATABASE_NAME");
 ```
+
+## Student Experience
+
+Student users can:
+
+- Log in with their roll number and password.
+- Review assigned tests from the dashboard.
+- Attempt quizzes question by question.
+- Submit the test and review the completion state.
+
+### Student Screens
+
+![Student Login](readme_images/student_login.png)
+
+![Student Dashboard](readme_images/student_dashboard.png)
+
+![Student Quiz Test](readme_images/student_quiz_test.png)
+
+![Student Test Completed](readme_images/student_test_completed.png)
+
+## Admin Experience
+
+Admin users can:
+
+- Sign in to the dashboard.
+- Add classes and class data.
+- Import quiz questions from spreadsheet files.
+- Create tests and generate student credentials.
+- Inspect test details and reporting pages.
+
+### Admin Screens
+
+![Admin Login](readme_images/admin_login.png)
+
+![Admin Dashboard](readme_images/admin_dashboard.png)
+
+![Add Class](readme_images/add_class.png)
+
+![Class Data](readme_images/class_data.png)
