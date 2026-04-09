@@ -116,3 +116,9 @@ The admin reporting area includes detail pages for generated tests, question ban
 ![Test Stats Details](readme_images/test_stats_details.png)
 
 ![Test Questions Stats](readme_images/test_questions_stats.png)
+
+## Notes
+
+- The original source project does not include a `package.json` or `.env` file because it is built as a PHP application instead of a Node-based stack.
+- Spreadsheet samples are included at the project root and in `admin/files/uploads/` to match the source layout.
+- `database/config.php` is the live connection file, and `database/config_sample.php` is the template for new environments.
