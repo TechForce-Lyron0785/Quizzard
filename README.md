@@ -94,3 +94,25 @@ Admin users can:
 ![Add Class](readme_images/add_class.png)
 
 ![Class Data](readme_images/class_data.png)
+
+![Create New Test](readme_images/create_new_test.png)
+
+![Import Questions](readme_images/import_questions.png)
+
+![Add Question](readme_images/add_question.png)
+
+![Student Test Credentials](readme_images/student_test_creds.png)
+
+## Reporting Screens
+
+The admin reporting area includes detail pages for generated tests, question banks, and aggregated student performance.
+
+![Test Details](readme_images/test_details.png)
+
+![Test Questions](readme_images/test_questions.png)
+
+![Test Stats List](readme_images/test_stats_list.png)
+
+![Test Stats Details](readme_images/test_stats_details.png)
+
+![Test Questions Stats](readme_images/test_questions_stats.png)
